@@ -1,0 +1,79 @@
+[E 240924 14:54:34 2762490498:10] Invalid Token: The provided token is not valid.
+[E 240924 15:01:00 2693262120:10] Invalid Token: The provided token is not valid.
+[E 240924 15:05:56 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2024', 'totp': '873893'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:05:56 660141242:12] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:07:49 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2024', 'totp': '818497'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:07:49 4173306878:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:07:58 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2024', 'totp': '818497'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:07:58 3227612140:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:08:16 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2024', 'totp': '072427'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:08:16 3227612140:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:08:33 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2024', 'totp': '072427'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:08:33 3227612140:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:09:29 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2023', 'totp': '190600'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:09:29 3227612140:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:09:50 smartConnect:243] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'v471360', 'password': '2023', 'totp': '716149'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:09:50 3227612140:5] {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[E 240924 15:14:10 smartConnect:218] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': 'f5:05:99:f1:fe:e7', 'Accept': 'application/json', 'X-PrivateKey': 'l5P6bbki', 'X-UserType': 'USER', 'X-SourceID': 'WEB', 'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IlY0NzEzNjAiLCJyb2xlcyI6MCwidXNlcnR5cGUiOiJVU0VSIiwidG9rZW4iOiJleUpoYkdjaU9pSlNVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMWMyVnlYM1I1Y0dVaU9pSmpiR2xsYm5RaUxDSjBiMnRsYmw5MGVYQmxJam9pZEhKaFpHVmZZV05qWlhOelgzUnZhMlZ1SWl3aVoyMWZhV1FpT2pFekxDSnpiM1Z5WTJVaU9pSXpJaXdpWkdWMmFXTmxYMmxrSWpvaU1qazBaakl3WldVdE9EWXlPUzB6TkRKa0xUa3dPV0l0TkRobVl6azRNalUxTnpVeklpd2lhMmxrSWpvaWRISmhaR1ZmYTJWNVgzWXhJaXdpYjIxdVpXMWhibUZuWlhKcFpDSTZNVE1zSW5CeWIyUjFZM1J6SWpwN0ltUmxiV0YwSWpwN0luTjBZWFIxY3lJNkltRmpkR2wyWlNKOWZTd2lhWE56SWpvaWRISmhaR1ZmYkc5bmFXNWZjMlZ5ZG1salpTSXNJbk4xWWlJNklsWTBOekV6TmpBaUxDSmxlSEFpT2pFM01qY3lOVGczTURnc0ltNWlaaUk2TVRjeU56RTJOalE1Tml3aWFXRjBJam94TnpJM01UWTJORGsyTENKcWRHa2lPaUl6TmpsbE5XTXlPQzFrTmpCa0xUUTJNR0l0T1RrMU1TMHpPVFEyT0RRMVpURmhaVEVpZlEuQnY4a0NIalMxM2l5djd0SFctbGc2cEIwdVh5aVRhZTI3TDE0eFJ6cU5tZzR4bW9hN1dUYkVsb1gzSUFLeEk4aGR3cnBnUE1wT3lHdklnTWZPbVh5STRoeE1iZVBlcW1hQTY4Ny1NWEdYeHRYdHJuUHpaeWtKVVNmb29fMElZM1hUeG93ZmVic0U5WXBNR3dHZ2s1VHp5V1dPQ3ZUV3J5amxVVVp3aHhlUkFRIiwiQVBJLUtFWSI6Imw1UDZiYmtpIiwiaWF0IjoxNzI3MTY2NTU5LCJleHAiOjE3MjcyNTg3MDh9.Nln-xpvXrjg7OhxRc9vBuuo1gaca7XvUGBsvU0RvrIppgsZHLwi32R0Hb9AmBGhwVKA4a3tp4xea_MJ5lLJxrQ'}, Request: {'exchange': 'NSE', 'symboltoken': '3045', 'interval': 'ONE_MINUTE', 'fromdate': '2021-02-08 09:00', 'todate': '2024-02-08 09:16'}, Response: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Read timed out. (read timeout=7)
+[E 240924 15:14:10 1375654150:11] Historic Api failed: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Read timed out. (read timeout=7)
+    Traceback (most recent call last):
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+        six.raise_from(e, None)
+      File "<string>", line 3, in raise_from
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+        httplib_response = conn.getresponse()
+      File "C:\Users\vinit suthar\anaconda3\lib\http\client.py", line 1374, in getresponse
+        response.begin()
+      File "C:\Users\vinit suthar\anaconda3\lib\http\client.py", line 318, in begin
+        version, status, reason = self._read_status()
+      File "C:\Users\vinit suthar\anaconda3\lib\http\client.py", line 279, in _read_status
+        line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+      File "C:\Users\vinit suthar\anaconda3\lib\socket.py", line 705, in readinto
+        return self._sock.recv_into(b)
+      File "C:\Users\vinit suthar\anaconda3\lib\ssl.py", line 1274, in recv_into
+        return self.read(nbytes, buffer)
+      File "C:\Users\vinit suthar\anaconda3\lib\ssl.py", line 1130, in read
+        return self._sslobj.read(len, buffer)
+    TimeoutError: The read operation timed out
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\requests\adapters.py", line 489, in send
+        resp = conn.urlopen(
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+        retries = retries.increment(
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+        raise six.reraise(type(error), error, _stacktrace)
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+        raise value
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+        httplib_response = self._make_request(
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+        self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+        raise ReadTimeoutError(
+    urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Read timed out. (read timeout=7)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "C:\Users\vinit suthar\AppData\Local\Temp\ipykernel_18096\1375654150.py", line 9, in <module>
+        smartApi.getCandleData(historicParam)
+      File "C:\Users\vinit suthar\Downloads\smartapi-python-main\smartapi-python-main\SmartApi\smartConnect.py", line 462, in getCandleData
+        getCandleDataResponse=self._postRequest("api.candle.data",historicDataParams)
+      File "C:\Users\vinit suthar\Downloads\smartapi-python-main\smartapi-python-main\SmartApi\smartConnect.py", line 260, in _postRequest
+        return self._request(route, "POST", params)
+      File "C:\Users\vinit suthar\Downloads\smartapi-python-main\smartapi-python-main\SmartApi\smartConnect.py", line 219, in _request
+        raise e
+      File "C:\Users\vinit suthar\Downloads\smartapi-python-main\smartapi-python-main\SmartApi\smartConnect.py", line 207, in _request
+        r = requests.request(method,
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\requests\api.py", line 59, in request
+        return session.request(method=method, url=url, **kwargs)
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\requests\sessions.py", line 587, in request
+        resp = self.send(prep, **send_kwargs)
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\requests\sessions.py", line 701, in send
+        r = adapter.send(request, **kwargs)
+      File "C:\Users\vinit suthar\anaconda3\lib\site-packages\requests\adapters.py", line 578, in send
+        raise ReadTimeout(e, request=request)
+    requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='apiconnect.angelone.in', port=443): Read timed out. (read timeout=7)
